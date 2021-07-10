@@ -1,0 +1,58 @@
+const livros = [
+  {
+    id: 1,
+    nome: 'The Walking Dead - Return to Woodbury',
+    autor: 'Robert Kirkman, Jay Bonansinga',
+    categoria: 'Survival',
+    paginas: 288,
+    recomenda: true,
+    leu: true,
+  },
+  {
+    id: 2,
+    nome: 'Starters',
+    autor: 'Lissa Price',
+    categoria: 'Survival',
+    paginas: 368,
+    recomenda: true,
+    leu: true,
+  },
+  {
+    id: 3,
+    nome: 'O Corpo Fala',
+    autor: 'Pierre Weil, Roland Tompakow',
+    categoria: 'Programação Neuro-linguística',
+    paginas: 154,
+    recomenda: false,
+    leu: true,
+  },
+  {
+    id: 4,
+    nome: 'O Cavaleiro de Westeros e Outras Histórias',
+    autor: 'George R. R. Martin',
+    categoria: 'Medieval',
+    paginas: 480,
+    recomenda: false,
+    leu: false,
+  },
+  {
+    id: 5,
+    nome: 'First Watch',
+    autor: 'Dale Lucas',
+    categoria: 'Medieval',
+    paginas: 416,
+    recomenda: false,
+    leu: false,
+  },
+  {
+    id: 6,
+    nome: 'Jantar Secreto',
+    autor: 'Raphael Montes',
+    categoria: 'Suspense',
+    paginas: 360,
+    recomenda: true,
+    leu: false,
+  },
+];
+
+module.exports = livros;
