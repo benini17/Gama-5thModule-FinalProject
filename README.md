@@ -1,8 +1,10 @@
 <h1 style="align-content: center; font-weight: bold;">BOOKSHELF</h1>
 
-<p align="center">
-<img width="1000" src="https://media.giphy.com/media/3vq6JIScq3f1CF9ZLw/giphy.gif" alt="Bookshelf organized by category" />
-</p>
+
+https://user-images.githubusercontent.com/67801606/125174495-4b55e400-e19c-11eb-98bb-a53b8044a331.mov
+
+
+
 
 <div>
   <h2 style="text-decoration: underline;">About this project</h2>
