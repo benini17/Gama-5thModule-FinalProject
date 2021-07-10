@@ -92,6 +92,7 @@
   <ul>
     <li>Vanilla' JavaScript</li>
     <li>Prettier - Code formatter</li>
+    <li>Readline-sync</li>
   </ul>
 </div>
 
